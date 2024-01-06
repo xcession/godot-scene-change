@@ -10,10 +10,10 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-margin_left = -25.5
-margin_top = -7.0
-margin_right = 25.5
-margin_bottom = 7.0
+offset_left = -25.5
+offset_top = -7.0
+offset_right = 25.5
+offset_bottom = 7.0
 text = "SCENE 2"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -24,9 +24,9 @@ anchor_left = 1.0
 anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_left = -120.0
-margin_top = -30.0
-rect_min_size = Vector2( 120, 30 )
+offset_left = -120.0
+offset_top = -30.0
+custom_minimum_size = Vector2( 120, 30 )
 text = "CHANGE SCENE"
 __meta__ = {
 "_edit_use_anchors_": false
